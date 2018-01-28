@@ -1,38 +1,73 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-        <meta charset="utf-8" />
-        <title>Reborn - OMlalala</title>
-        <link rel="stylesheet" href="/theme/css/main.css" />
+    <title>Articles by OMlalala - Reborn</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <!--[if IE]>
-            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
+
+
+
+        <meta name="author" content="OMlalala" />
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="Reborn" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Reborn"/>
+        <meta property="og:url" content="https://omlalala.github.io"/>
+        <meta property="og:description" content="Reborn"/>
+
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://omlalala.github.io/theme/css/bootstrap.readable.min.css" type="text/css"/>
+    <link href="https://omlalala.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://omlalala.github.io/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://omlalala.github.io/theme/css/style.css" type="text/css"/>
+
+        <link href="https://omlalala.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Reborn ATOM Feed"/>
+
+
+
+
 </head>
+<body>
 
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="/">Reborn </a></h1>
-                <nav><ul>
-                    <li><a href="/category/misc.html">misc</a></li>
-                    <li><a href="/category/review.html">Review</a></li>
-                </ul></nav>
-        </header><!-- /#banner -->
-
-            <aside id="featured" class="body">
-                <article>
-                    <h1 class="entry-title"><a href="/2017-09-02-alfred-workflow.html">"Alfred workflow 初阶探索"</a></h1>
-<footer class="post-info">
-        <abbr class="published" title="2017-09-04T21:02:37+08:00">
-                Published: Mon 04 September 2017
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/omlalala.html">OMlalala</a>
-        </address>
-<p>In <a href="/category/misc.html">misc</a>.</p>
-<p>tags: <a href="/tag/alfred.html">Alfred</a> <a href="/tag/workflow.html">workflow</a> </p>
-</footer><!-- /.post-info --><p>[TOC]</p>
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://omlalala.github.io/" class="navbar-brand">
+Reborn            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="http://pychina.org">PyChina</a></li>
+                    <li><a href="/pages/about.html">abt.</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+            <article>
+                <h2><a href="https://omlalala.github.io/2017-09-02-alfred-workflow.html">"Alfred workflow 初阶探索"</a></h2>
+                <div class="summary"><p>[TOC]</p>
 <h3>背景</h3>
 <p>最近通过广度优先搜索，收集投资领域的牛人资料。</p>
 <p>参照 <a href="https://github.com/heshenxian1">@heshenxian1</a> 整理的 牛人智库清单：<a href="https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/ZABJPABM">wisdom-sage</a></p>
@@ -55,53 +90,14 @@
 </ul>
 <h3>探索</h3>
 <ul>
-<li>阳老师对 Alfred 工作流的介绍：<a href="http://www.yangzhiping.com/tech/mac2.html">Mac入门笔记（2）：桌面管理 - 阳志平的网志</a></li>
-<li>官方文档：<a href="https://www.alfredapp.com/help/workflows/">Workflows - Alfred Help and Support</a></li>
-</ul>
-<h3>结果</h3>
-<ul>
-<li>Alfred workflow 下载地址： <a href="https://github.com/OMlalala/Alfred-workflow">Github</a> or
-<a href="https://www.alfredforum.com/topic/10665-web-search-search-investors-information/">Alfred Forum</a></li>
-</ul>
-<h3>演示</h3>
-<ul>
-<li>输入 en + 投资者英文名字，返回 wiki, google, amazon us 等链接</li>
-</ul>
-<p><img alt="" src="http://omjtq6wcu.bkt.clouddn.com/2.jpg"></p>
-<p><img alt="" src="http://omjtq6wcu.bkt.clouddn.com/3.jpg"></p>
-<p><img alt="" src="http://omjtq6wcu.bkt.clouddn.com/4.jpg"></p>
-<ul>
-<li>输入 cn + 投资者英文名字，返回 amazon cn 链接</li>
-</ul>
-<p><img alt="" src="http://omjtq6wcu.bkt.clouddn.com/5.jpg"></p>
-<p><img alt="" src="http://omjtq6wcu.bkt.clouddn.com/6.jpg"></p>
-<p><img alt="" src="http://omjtq6wcu.bkt.clouddn.com/7.jpg"></p>
-<h3>Changelog</h3>
-<p>20170904 Init</p>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/2017-4-15-how-to-think-straight-about-psychology-chap1.html" rel="bookmark"
-                           title="Permalink to "这才是心理学 第一章 笔记"">"这才是心理学 第一章 笔记"</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2017-04-16T15:43:37+08:00">
-                Published: Sun 16 April 2017
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/omlalala.html">OMlalala</a>
-        </address>
-<p>In <a href="/category/misc.html">misc</a>.</p>
-<p>tags: <a href="/tag/psychology.html">psychology</a> <a href="/tag/stanovich.html">stanovich</a> </p>
-</footer><!-- /.post-info -->                <p>[TOC]</p>
+<li>阳老师对 …</li></ul>
+                    <a class="btn btn-default btn-xs" href="https://omlalala.github.io/2017-09-02-alfred-workflow.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://omlalala.github.io/2017-4-15-how-to-think-straight-about-psychology-chap1.html">"这才是心理学 第一章 笔记"</a></h2>
+                <div class="summary"><p>[TOC]</p>
 <p>全文约：5000字
 阅读时间约：10分钟</p>
 <h3>背景</h3>
@@ -117,51 +113,62 @@
 <li>诺贝尔经济学奖得主——丹尼尔•卡尼曼</li>
 <li>“大师中的大师”——詹姆斯•马齐</li>
 <li>世界顶尖语言学家、认知心理学家——史迪芬•平克 …</li></ul>
-                <a class="readmore" href="/2017-4-15-how-to-think-straight-about-psychology-chap1.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
+                    <a class="btn btn-default btn-xs" href="https://omlalala.github.io/2017-4-15-how-to-think-straight-about-psychology-chap1.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://omlalala.github.io/my-first-review.html">My First Review</a></h2>
+                <div class="summary"><p>Following is a review of my favorite mechanical keyboard.</p>
+                    <a class="btn btn-default btn-xs" href="https://omlalala.github.io/my-first-review.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
 
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/my-first-review.html" rel="bookmark"
-                           title="Permalink to My First Review">My First Review</a></h1>
-                </header>
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+<!-- Sidebar -->
+<section class="well well-sm">
+  <ul class="list-group list-group-flush">
 
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2010-12-03T10:20:00+01:00">
-                Published: Fri 03 December 2010
-        </abbr>
+<!-- Sidebar/Social -->
+<li class="list-group-item">
+  <h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+  <ul class="list-group" id="social">
+    <li class="list-group-item"><a href="#"><i class="fa fa-you-can-add-links-in-your-config-file-square fa-lg"></i> You can add links in your config file</a></li>
+    <li class="list-group-item"><a href="#"><i class="fa fa-another-social-link-square fa-lg"></i> Another social link</a></li>
+  </ul>
+</li>
+<!-- End Sidebar/Social -->
+  </ul>
+</section>
+<!-- End Sidebar -->            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2017 OMlalala
+            &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="https://omlalala.github.io/theme/js/jquery.min.js"></script>
 
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/omlalala.html">OMlalala</a>
-        </address>
-<p>In <a href="/category/review.html">Review</a>.</p>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://omlalala.github.io/theme/js/bootstrap.min.js"></script>
 
-</footer><!-- /.post-info -->                <p>Following is a review of my favorite mechanical keyboard.</p>
-                <a class="readmore" href="/my-first-review.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-                </ol><!-- /#posts-list -->
-                </section><!-- /#content -->
-        <section id="extras" class="body">
-                <div class="social">
-                        <h2>social</h2>
-                        <ul>
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://omlalala.github.io/theme/js/respond.min.js"></script>
 
-                            <li><a href="#">You can add links in your config file</a></li>
-                            <li><a href="#">Another social link</a></li>
-                        </ul>
-                </div><!-- /.social -->
-        </section><!-- /#extras -->
 
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
 
-                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
-        </footer><!-- /#contentinfo -->
 
 </body>
 </html>
