@@ -4,98 +4,98 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://omlalala.github.io/</loc>
-<lastmod>2018-01-28T23:20:14-00:00</lastmod>
+<loc>https://omlalala.io/</loc>
+<lastmod>2018-01-31T00:18:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omlalala.github.io/archives.html</loc>
-<lastmod>2018-01-28T23:20:14-00:00</lastmod>
+<loc>https://omlalala.io/archives.html</loc>
+<lastmod>2018-01-31T00:18:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omlalala.github.io/tags.html</loc>
-<lastmod>2018-01-28T23:20:14-00:00</lastmod>
+<loc>https://omlalala.io/tags.html</loc>
+<lastmod>2018-01-31T00:18:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omlalala.github.io/categories.html</loc>
-<lastmod>2018-01-28T23:20:14-00:00</lastmod>
+<loc>https://omlalala.io/categories.html</loc>
+<lastmod>2018-01-31T00:18:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omlalala.github.io/2017-09-02-alfred-workflow.html</loc>
+<loc>https://omlalala.io/2017-09-02-alfred-workflow.html</loc>
 <lastmod>2017-09-04T21:02:37+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omlalala.github.io/2017-4-15-how-to-think-straight-about-psychology-chap1.html</loc>
+<loc>https://omlalala.io/2017-4-15-how-to-think-straight-about-psychology-chap1.html</loc>
 <lastmod>2017-04-16T15:43:37+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omlalala.github.io/keyboard-review.html</loc>
+<loc>https://omlalala.io/keyboard-review.html</loc>
 <lastmod>2010-12-03T10:20:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omlalala.github.io/category/misc.html</loc>
+<loc>https://omlalala.io/category/misc.html</loc>
 <lastmod>2017-09-04T21:02:37+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omlalala.github.io/category/review.html</loc>
+<loc>https://omlalala.io/category/review.html</loc>
 <lastmod>2010-12-03T10:20:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omlalala.github.io/tag/alfred.html</loc>
+<loc>https://omlalala.io/tag/alfred.html</loc>
 <lastmod>2017-09-04T21:02:37+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omlalala.github.io/tag/workflow.html</loc>
+<loc>https://omlalala.io/tag/workflow.html</loc>
 <lastmod>2017-09-04T21:02:37+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omlalala.github.io/tag/psychology.html</loc>
+<loc>https://omlalala.io/tag/psychology.html</loc>
 <lastmod>2017-04-16T15:43:37+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omlalala.github.io/tag/stanovich.html</loc>
+<loc>https://omlalala.io/tag/stanovich.html</loc>
 <lastmod>2017-04-16T15:43:37+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omlalala.github.io/author/omlalala.html</loc>
+<loc>https://omlalala.io/author/omlalala.html</loc>
 <lastmod>2017-09-04T21:02:37+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
