@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>OMlalala.io - OMlalala</title><link>http://omlalala.io/</link><description></description><lastBuildDate>Sun, 04 Feb 2018 15:20:53 +0800</lastBuildDate><item><title>“2018年1月总结”</title><link>http://omlalala.io/2018-02-04-summary-1801.html</link><description>
+<rss version="2.0"><channel><title>OMlalala.io - OMlalala</title><link>http://omlalala.io/</link><description></description><lastBuildDate>Sun, 04 Feb 2018 15:25:53 +0800</lastBuildDate><item><title>2018年1月总结</title><link>http://omlalala.io/2018-02-04-summary-1801.html</link><description>
 &lt;h2 id="_1"&gt;背景&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;竹子已坚持写了 7 年的年度总结: &lt;a href="http://bambooom.github.io/2017/12/27/2017-summary/"&gt;2017 总结 - Bambooom&lt;/a&gt;&lt;/li&gt;
@@ -22,7 +22,7 @@
 &lt;/li&gt;
 &lt;li&gt;探索&lt;ul&gt;
 &lt;li&gt;汇总了大妈写的各种 Leo 教程: &lt;a href="https://github.com/DebugUself/leo-editor-cn/wiki/zoomquiet-leo"&gt;狮从大妈&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;其中最触动我的是一句话: “文学化编程, 是真正的将思维对应到代码内在结构上, 而不是语法结构, 这对程序员而言 …&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">OMlalala</dc:creator><pubDate>Sun, 04 Feb 2018 15:20:53 +0800</pubDate><guid isPermaLink="false">tag:omlalala.io,2018-02-04:/2018-02-04-summary-1801.html</guid><category>debuguself</category></item><item><title>“Alfred workflow 初阶探索”</title><link>http://omlalala.io/2017-09-02-alfred-workflow.html</link><description>
+&lt;li&gt;其中最触动我的是一句话: “文学化编程, 是真正的将思维对应到代码内在结构上, 而不是语法结构, 这对程序员而言 …&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">OMlalala</dc:creator><pubDate>Sun, 04 Feb 2018 15:25:53 +0800</pubDate><guid isPermaLink="false">tag:omlalala.io,2018-02-04:/2018-02-04-summary-1801.html</guid><category>debuguself</category></item><item><title>Alfred workflow 初阶探索</title><link>http://omlalala.io/2017-09-02-alfred-workflow.html</link><description>
 &lt;h3 id="_1"&gt;背景&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;最近通过广度优先搜索，收集投资领域的牛人资料。&lt;/p&gt;
 &lt;p&gt;参照 &lt;a href="https://github.com/heshenxian1"&gt;@heshenxian1&lt;/a&gt; 整理的 牛人智库清单：&lt;a href="https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/ZABJPABM"&gt;wisdom-sage&lt;/a&gt;&lt;/p&gt;
@@ -45,7 +45,7 @@
 &lt;/ul&gt;
 &lt;h3 id="_4"&gt;探索&lt;a class="headerlink" href="#_4" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;阳老师对 Alfred …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">OMlalala</dc:creator><pubDate>Mon, 04 Sep 2017 21:02:37 +0800</pubDate><guid isPermaLink="false">tag:omlalala.io,2017-09-04:/2017-09-02-alfred-workflow.html</guid><category>Alfred</category><category>workflow</category></item><item><title>“这才是心理学 第一章 笔记”</title><link>http://omlalala.io/2017-4-15-how-to-think-straight-about-psychology-chap1.html</link><description>
+&lt;li&gt;阳老师对 Alfred …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">OMlalala</dc:creator><pubDate>Mon, 04 Sep 2017 21:02:37 +0800</pubDate><guid isPermaLink="false">tag:omlalala.io,2017-09-04:/2017-09-02-alfred-workflow.html</guid><category>Alfred</category><category>workflow</category></item><item><title>这才是心理学 第一章 笔记</title><link>http://omlalala.io/2017-4-15-how-to-think-straight-about-psychology-chap1.html</link><description>
 &lt;p&gt;全文约：5000字 阅读时间约：10分钟&lt;/p&gt;
 &lt;h3 id="_1"&gt;背景&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;2016年11月，我加入了 &lt;a href="https://www.douban.com/doulist/45345711/"&gt;开智通识部落&lt;/a&gt;，部落要求成员：每周精读一本书的一章，然后使用 &lt;a href="http://www.yangzhiping.com/psy/happy-new-year-faq3.html"&gt;卡片大法&lt;/a&gt; 撰写三张卡片。&lt;/p&gt;
