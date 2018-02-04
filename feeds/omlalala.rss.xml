@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>OMlalala.io - OMlalala</title><link>http://omlalala.io/</link><description></description><lastBuildDate>Mon, 04 Sep 2017 21:02:37 +0800</lastBuildDate><item><title>“Alfred workflow 初阶探索”</title><link>http://omlalala.io/2017-09-02-alfred-workflow.html</link><description>
+<rss version="2.0"><channel><title>OMlalala.io - OMlalala</title><link>http://omlalala.io/</link><description></description><lastBuildDate>Sun, 04 Feb 2018 15:02:40 +0800</lastBuildDate><item><title>“2018年1月总结”</title><link>http://omlalala.io/2018-02-04-summary-1801.html</link><description>
+&lt;h1 id="20181"&gt;2018年1月总结&lt;a class="headerlink" href="#20181" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id="_1"&gt;背景&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;竹子已坚持写了 7 年的年度总结: &lt;a href="http://bambooom.github.io/2017/12/27/2017-summary/"&gt;2017 总结 - Bambooom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;见贤思齐, 我至今无一篇年度总结.&lt;/li&gt;
+&lt;li&gt;根据 &lt;span class="caps"&gt;MVP&lt;/span&gt; 思想, 结合怼圈的怼周会和各季计划, 计划先从月度总结开始.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="_2"&gt;概览&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;翻译 Leo 文档&lt;/li&gt;
+&lt;li&gt;优化自己博客&lt;/li&gt;
+&lt;li&gt;固定自怼节奏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="leo"&gt;翻译 Leo 文档&lt;a class="headerlink" href="#leo" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;缘起&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/DebugUself/du4proto/issues/219"&gt;42h[&lt;span class="caps"&gt;TASK&lt;/span&gt;] 怼圈活动统计表无法显示完整 · Issue #219 · DebugUself/du4proto&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;经过各种探索, 终于知道大妈使用的编辑器是 &lt;a href="http://leoeditor.com/"&gt;Leo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;其实大妈在各种 &lt;a href="http://s5rst.qiniucdn.com/"&gt;s5 幻灯&lt;/a&gt; 中, 都有提及, 但是自己视而不见&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;探索&lt;ul&gt;
+&lt;li&gt;汇总了大妈写的各种 Leo 教程: &lt;a href="https://github.com/DebugUself/leo-editor-cn/wiki/zoomquiet-leo"&gt;狮从大妈&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;其中最触动我的是一句话: “文学化编程, 是真正的将思维对应到代码内在结构上, 而不是语法结构 …&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">OMlalala</dc:creator><pubDate>Sun, 04 Feb 2018 15:02:40 +0800</pubDate><guid isPermaLink="false">tag:omlalala.io,2018-02-04:/2018-02-04-summary-1801.html</guid><category>debuguself</category></item><item><title>“Alfred workflow 初阶探索”</title><link>http://omlalala.io/2017-09-02-alfred-workflow.html</link><description>
 &lt;h3 id="_1"&gt;背景&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;最近通过广度优先搜索，收集投资领域的牛人资料。&lt;/p&gt;
 &lt;p&gt;参照 &lt;a href="https://github.com/heshenxian1"&gt;@heshenxian1&lt;/a&gt; 整理的 牛人智库清单：&lt;a href="https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/ZABJPABM"&gt;wisdom-sage&lt;/a&gt;&lt;/p&gt;
@@ -37,4 +61,4 @@
 &lt;li&gt;“大师中的大师”——詹姆斯•马齐&lt;/li&gt;
 &lt;li&gt;世界顶尖语言学家、认知心理学家——史迪芬•平克&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;然而即使是他们 …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">OMlalala</dc:creator><pubDate>Sun, 16 Apr 2017 15:43:37 +0800</pubDate><guid isPermaLink="false">tag:omlalala.io,2017-04-16:/2017-4-15-how-to-think-straight-about-psychology-chap1.html</guid><category>psychology</category><category>stanovich</category></item><item><title>My First Review</title><link>http://omlalala.io/keyboard-review.html</link><description>&lt;p&gt;Following is a review of my favorite mechanical keyboard.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">OMlalala</dc:creator><pubDate>Fri, 03 Dec 2010 10:20:00 +0800</pubDate><guid isPermaLink="false">tag:omlalala.io,2010-12-03:/keyboard-review.html</guid></item></channel></rss>
+&lt;p&gt;然而即使是他们 …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">OMlalala</dc:creator><pubDate>Sun, 16 Apr 2017 15:43:37 +0800</pubDate><guid isPermaLink="false">tag:omlalala.io,2017-04-16:/2017-4-15-how-to-think-straight-about-psychology-chap1.html</guid><category>psychology</category><category>stanovich</category></item></channel></rss>

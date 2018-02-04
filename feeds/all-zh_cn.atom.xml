@@ -1,5 +1,278 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>OMlalala.io</title><link href="http://omlalala.io/" rel="alternate"></link><link href="http://omlalala.io/feeds/all-zh_cn.atom.xml" rel="self"></link><id>http://omlalala.io/</id><updated>2017-09-04T21:02:37+08:00</updated><entry><title>“Alfred workflow 初阶探索”</title><link href="http://omlalala.io/2017-09-02-alfred-workflow.html" rel="alternate"></link><published>2017-09-04T21:02:37+08:00</published><updated>2017-09-04T21:02:37+08:00</updated><author><name>OMlalala</name></author><id>tag:omlalala.io,2017-09-04:/2017-09-02-alfred-workflow.html</id><summary type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>OMlalala.io</title><link href="http://omlalala.io/" rel="alternate"></link><link href="http://omlalala.io/feeds/all-zh_cn.atom.xml" rel="self"></link><id>http://omlalala.io/</id><updated>2018-02-04T15:02:40+08:00</updated><entry><title>“2018年1月总结”</title><link href="http://omlalala.io/2018-02-04-summary-1801.html" rel="alternate"></link><published>2018-02-04T15:02:40+08:00</published><updated>2018-02-04T15:02:40+08:00</updated><author><name>OMlalala</name></author><id>tag:omlalala.io,2018-02-04:/2018-02-04-summary-1801.html</id><summary type="html">
+&lt;h1 id="20181"&gt;2018年1月总结&lt;a class="headerlink" href="#20181" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id="_1"&gt;背景&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;竹子已坚持写了 7 年的年度总结: &lt;a href="http://bambooom.github.io/2017/12/27/2017-summary/"&gt;2017 总结 - Bambooom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;见贤思齐, 我至今无一篇年度总结.&lt;/li&gt;
+&lt;li&gt;根据 &lt;span class="caps"&gt;MVP&lt;/span&gt; 思想, 结合怼圈的怼周会和各季计划, 计划先从月度总结开始.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="_2"&gt;概览&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;翻译 Leo 文档&lt;/li&gt;
+&lt;li&gt;优化自己博客&lt;/li&gt;
+&lt;li&gt;固定自怼节奏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="leo"&gt;翻译 Leo 文档&lt;a class="headerlink" href="#leo" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;缘起&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/DebugUself/du4proto/issues/219"&gt;42h[&lt;span class="caps"&gt;TASK&lt;/span&gt;] 怼圈活动统计表无法显示完整 · Issue #219 · DebugUself/du4proto&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;经过各种探索, 终于知道大妈使用的编辑器是 &lt;a href="http://leoeditor.com/"&gt;Leo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;其实大妈在各种 &lt;a href="http://s5rst.qiniucdn.com/"&gt;s5 幻灯&lt;/a&gt; 中, 都有提及, 但是自己视而不见&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;探索&lt;ul&gt;
+&lt;li&gt;汇总了大妈写的各种 Leo 教程: &lt;a href="https://github.com/DebugUself/leo-editor-cn/wiki/zoomquiet-leo"&gt;狮从大妈&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;其中最触动我的是一句话: “文学化编程, 是真正的将思维对应到代码内在结构上, 而不是语法结构 …&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">
+&lt;h1 id="20181"&gt;2018年1月总结&lt;a class="headerlink" href="#20181" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id="_1"&gt;背景&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;竹子已坚持写了 7 年的年度总结: &lt;a href="http://bambooom.github.io/2017/12/27/2017-summary/"&gt;2017 总结 - Bambooom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;见贤思齐, 我至今无一篇年度总结.&lt;/li&gt;
+&lt;li&gt;根据 &lt;span class="caps"&gt;MVP&lt;/span&gt; 思想, 结合怼圈的怼周会和各季计划, 计划先从月度总结开始.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="_2"&gt;概览&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;翻译 Leo 文档&lt;/li&gt;
+&lt;li&gt;优化自己博客&lt;/li&gt;
+&lt;li&gt;固定自怼节奏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="leo"&gt;翻译 Leo 文档&lt;a class="headerlink" href="#leo" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;缘起&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/DebugUself/du4proto/issues/219"&gt;42h[&lt;span class="caps"&gt;TASK&lt;/span&gt;] 怼圈活动统计表无法显示完整 · Issue #219 · DebugUself/du4proto&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;经过各种探索, 终于知道大妈使用的编辑器是 &lt;a href="http://leoeditor.com/"&gt;Leo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;其实大妈在各种 &lt;a href="http://s5rst.qiniucdn.com/"&gt;s5 幻灯&lt;/a&gt; 中, 都有提及, 但是自己视而不见&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;探索&lt;ul&gt;
+&lt;li&gt;汇总了大妈写的各种 Leo 教程: &lt;a href="https://github.com/DebugUself/leo-editor-cn/wiki/zoomquiet-leo"&gt;狮从大妈&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;其中最触动我的是一句话: “文学化编程, 是真正的将思维对应到代码内在结构上, 而不是语法结构, 这对程序员而言,是种极大的解放.” by 大妈&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;对于高龄学习编程的我来说, 仿佛 “弯道超车” 必备工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;实践&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/DebugUself/du4proto/tree/OMlalala/S07E51/python-data-science-handbook/notebooks"&gt;之前有过翻译经验&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;翻译 数据科学手书: &lt;a href="https://jakevdp.github.io/PythonDataScienceHandbook/"&gt;Python Data Science Handbook | Python Data Science Handbook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;所以, 翻译 Leo 文档, 延续习惯, 也是自己在本地翻译文档.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;对比&lt;ul&gt;
+&lt;li&gt;之前翻译时, 没在怼周会做宣传, 所以缺失了大妈的指点&lt;/li&gt;
+&lt;li&gt;这次翻译 Leo 文档, 每次怼周会不落, 在大妈指点下, 进步程度和上次形成鲜明对比.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;具体差异&lt;ul&gt;
+&lt;li&gt;建立开源项目思维, 模仿业界最佳实践&lt;ul&gt;
+&lt;li&gt;建立公共仓库: &lt;a href="https://github.com/DebugUself/leo-editor-cn"&gt;DebugUself/leo-editor-cn: Leo docs in Chinese | 释狮大会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;写 readme 和 wiki&lt;/li&gt;
+&lt;li&gt;和 Leo 创始人 令德华 联系征求建议: &lt;a href="https://groups.google.com/forum/#!topic/leo-editor/k-98DydXRks"&gt;[&lt;span class="caps"&gt;QA&lt;/span&gt;]Advices for Leo documentation in Chinese translated version? - Google 网上论坛&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;技术突破&lt;ul&gt;
+&lt;li&gt;尝试 github pages 的不同用法 (master 分支 / master/doc / gh-pages 分支)&lt;/li&gt;
+&lt;li&gt;熟悉 git 常用场景 (删除历史文件等)&lt;/li&gt;
+&lt;li&gt;fabric 自动化处理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;思考&lt;ul&gt;
+&lt;li&gt;在大妈四周的挤牙膏式怼我后, 我突然意识到 checklist 的重要性, 即做一件事情, 业界的最佳实践是什么?&lt;/li&gt;
+&lt;li&gt;延续这个思路, 找到一个借鉴资料: &lt;a href="https://opensource.guide/"&gt;Open Source Guides | Learn how to launch and grow your project.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="_3"&gt;优化自己博客&lt;a class="headerlink" href="#_3" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;缘起&lt;ul&gt;
+&lt;li&gt;之前的博客使用 jekyll 搭建, 其使用 ruby 语言, 想转换为 python 语言&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;实践&lt;ul&gt;
+&lt;li&gt;转换技术栈: jekyll -&amp;gt; pelican&lt;ul&gt;
+&lt;li&gt;静态网站生成工具列表: &lt;a href="https://www.staticgen.com/"&gt;Top Open-Source Static Site Generators - StaticGen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;迁移步骤参考: &lt;a href="http://weekly.pychina.org/chaos/jekyll-to-pelican.html"&gt;How to from Jekyll jump into Pelican |蠎周刊 |汇集全球蠎事儿 !-)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;抢注域名: &lt;a href="http://omlalala.io/"&gt;OMlalala.io&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;使用 &lt;a href="https://domains.google/#/"&gt;Google Domains – Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;坑: 注册信息需填写居住城市, 建议使用美国地址&lt;ul&gt;
+&lt;li&gt;参考: &lt;a href="https://www.alexclassroom.com/internet/google/google-domains/how-to-purchase-a-domain-name-from-google-domains/"&gt;[How-To] 如何在 Google Domains 上購買網域名稱 | 阿力獅的教室&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;DNS&lt;/span&gt; 配置: &lt;a href="https://medium.com/@connorleech/launch-a-website-with-a-custom-url-using-github-pages-and-google-domains-3dd8d90cc33b"&gt;Launch a Website with a Custom &lt;span class="caps"&gt;URL&lt;/span&gt; using Github Pages and Google Domains&lt;/a&gt; 中 step6 及文章第一条评论                               &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="_4"&gt;固定自怼节奏&lt;a class="headerlink" href="#_4" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;缘起&lt;ul&gt;
+&lt;li&gt;2017年, 每天的时间节奏不固定, 效率不高&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;监测&lt;ul&gt;
+&lt;li&gt;通过使用 atimelogger2 记录时间, 发现&lt;ul&gt;
+&lt;li&gt;下班后直接做公车回家, 赶上高峰期, 路上巨堵, 耗时, 且公车拥挤, 无法使用 mac 自怼&lt;/li&gt;
+&lt;li&gt;因家离公司1.5小时车程, 回家自怼时间有限, 所有经常熬夜, 早上起来时间也不固定&lt;/li&gt;
+&lt;li&gt;早起上班, 先在小区门口, 坐小蹦蹦车到主路, 再等班车, 时间不确定, 消耗心力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;优化&lt;ul&gt;
+&lt;li&gt;晚上&lt;ul&gt;
+&lt;li&gt;下班后先不回家, 先去星巴克自怼, 公司附近的门店一般 9 点打烊, 至少可自怼 1.5 小时&lt;/li&gt;
+&lt;li&gt;回家拼私家车, 选副驾驶座, 可以继续使用 mac 自怼. 此时道路畅通, 一般自怼 40 分钟可到家&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;早上&lt;ul&gt;
+&lt;li&gt;坐小区门口班车&lt;/li&gt;
+&lt;li&gt;0620 起床洗漱&lt;/li&gt;
+&lt;li&gt;0650 出门&lt;/li&gt;
+&lt;li&gt;0655 上第三趟班车&lt;/li&gt;
+&lt;li&gt;0710 发车&lt;/li&gt;
+&lt;li&gt;0810 到大望路&lt;/li&gt;
+&lt;li&gt;0820 到公司附近早餐馆&lt;/li&gt;
+&lt;li&gt;0835 吃完早饭&lt;/li&gt;
+&lt;li&gt;0845 到公司&lt;/li&gt;
+&lt;li&gt;0855 换完衣服&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;总结&lt;ul&gt;
+&lt;li&gt;大妈说过, 每个人每周的时间节奏, 不会变化太大.&lt;/li&gt;
+&lt;li&gt;同意, 因为我工作不出差, 所以工作日时间其实比较确定&lt;/li&gt;
+&lt;li&gt;关键是通过梳理自怼之敌和自怼之友, 梳理优化固定的自怼时间和空间, 保证效率.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="_5"&gt;附录&lt;a class="headerlink" href="#_5" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;下面附上关于翻译 Leo 文档, 大妈各周的怼我语录&lt;/li&gt;
+&lt;li&gt;目的&lt;ul&gt;
+&lt;li&gt;感谢大妈每周提点 &lt;/li&gt;
+&lt;li&gt;希望还没加入自怼圈的朋友, 可以感受到, 每周有专家对自己的学习成果给予反馈和优化建议的效果&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="0103"&gt;0103&lt;a class="headerlink" href="#0103" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/DebugUself/du4proto/commit/6fa391116b7b0fdb1a32cfa7df02c19ba433238d#r26595781"&gt;upload s10 plan · DebugUself/du4proto@6fa3911&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;@OMlalala 是也乎,(￣▽￣)
+
+对应工程分支/仓库以及发布流程呢?
+
+否则, 大家不知道如何参与的哪
+
+建议使用官方文档的发布流程
+
+Leo -&amp;gt; rst -&amp;gt; Sphinx -&amp;gt; html site
+
+推荐使用 fabric 进行本地自动化
+
+DebugUself/du4proto at MX4Leo
+
+怀疑是对应计划分支, 也是天然的怼友, 值得及时协同确立翻译流程
+&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id="0110"&gt;0110&lt;a class="headerlink" href="#0110" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/DebugUself/leo-editor-cn/issues/1#issue-287663205"&gt;[init.]如何加入协同翻译? · Issue #1 · DebugUself/leo-editor-cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;这是基础问题了...俺的期待是,包含:
+
+- 如何在本地构建快速编译输出文档网站的配置过程?
+    + 有助大家第一时间形成正反馈
+    + 问题在如何反馈这种成果?
+- 如何用最 Leo-style 的方式来协同?
+    + 参考:[Re: How to collaborate using Leo \- Google 网上论坛](https://groups.google.com/forum/#!searchin/leo-editor/How$20to$20collaborate$20using$20Leo%7Csort:date/leo-editor/Mr1cAfi8BLs/Dx8VPzbFBwAJ)
+    + 使用 .leo 文档来直接组织翻译是好的
+    + 但是,问题在 .leo 文档包含太多的私人嗯哼,是否/以及如何合并?
+&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id="0113"&gt;0113&lt;a class="headerlink" href="#0113" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/DebugUself/du4proto/issues/335#issuecomment-357434382"&gt;42h[&lt;span class="caps"&gt;TASK&lt;/span&gt;]20180113 怼周会 分享及纪要 · Issue #335 · DebugUself/du4proto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;@&lt;/span&gt;OMlalala 是也乎&lt;span class="p"&gt;,(&lt;/span&gt;￣▽￣&lt;span class="p"&gt;)&lt;/span&gt;
+
+得理解 gh&lt;span class="o"&gt;-&lt;/span&gt;pages 服务是什么&lt;span class="p"&gt;,&lt;/span&gt; 究竟在作了什么&lt;span class="o"&gt;?&lt;/span&gt;
+你才能理解&lt;span class="p"&gt;,&lt;/span&gt; 并合理利用&lt;span class="p"&gt;,&lt;/span&gt; 结合到自己的各种工程&lt;span class="kc"&gt;...&lt;/span&gt;
+
+俺用到现在的理解&lt;span class="o"&gt;:&lt;/span&gt;
+
+&lt;span class="o"&gt;-&lt;/span&gt; gh&lt;span class="o"&gt;-&lt;/span&gt;pages 服务如其名
+&lt;span class="o"&gt;-&lt;/span&gt; 核心功能&lt;span class="p"&gt;,&lt;/span&gt; 就是 pages 发行
+&lt;span class="o"&gt;-&lt;/span&gt; pages 可以有两类&lt;span class="o"&gt;:&lt;/span&gt;
+    &lt;span class="o"&gt;+&lt;/span&gt; jekyll 工程 &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; 将自动在服务端完成编译 &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; html
+    &lt;span class="o"&gt;+&lt;/span&gt; html 页面集 &lt;span class="o"&gt;&amp;lt;-&lt;/span&gt; 必须事先在本地&lt;span class="o"&gt;/&lt;/span&gt;其它服务完成编译
+&lt;span class="o"&gt;-&lt;/span&gt; 所以&lt;span class="p"&gt;,&lt;/span&gt; Leo 的文档基于 rST 格式的 Sphinx 网站组织的
+    &lt;span class="o"&gt;+&lt;/span&gt; 那么&lt;span class="p"&gt;,&lt;/span&gt; 提供自动脚本 &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; fabric 
+    &lt;span class="o"&gt;+&lt;/span&gt; 在本地完成编译&lt;span class="p"&gt;,&lt;/span&gt; 指定输出到对应目录&lt;span class="o"&gt;/&lt;/span&gt;分支中&lt;span class="kc"&gt;...&lt;/span&gt;
+    &lt;span class="o"&gt;+&lt;/span&gt; push 上 github &lt;span class="p"&gt;,&lt;/span&gt; 即完成发布
+    &lt;span class="o"&gt;+&lt;/span&gt; 然后&lt;span class="p"&gt;,&lt;/span&gt; 域名绑定什么的都是官方文档的嗯哼了
+&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id="0120"&gt;0120&lt;a class="headerlink" href="#0120" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/DebugUself/du4proto/issues/340#issuecomment-359169791"&gt;42h[&lt;span class="caps"&gt;TASK&lt;/span&gt;]20180120 怼周会 分享及纪要 · Issue #340 · DebugUself/du4proto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;@OMlalala 是也乎,(￣▽￣)
+
+- auto-md 的插件看起来很美
+- 可能的问题在:
+    + clone 是否支持?
+    + 如果有节点并不期望自动变成标题的话将有额外操作
+    + ...
+- 所以, 更好的节奏,还得继续找
+- 当然, 对于翻译工程,之前提醒过:
+    + 给不同的参与层次人士给出不同的方便渠道
+    + 是必要的技巧
+&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id="0127"&gt;0127&lt;a class="headerlink" href="#0127" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/DebugUself/du4proto/issues/342#issuecomment-360983177"&gt;42h[&lt;span class="caps"&gt;TASK&lt;/span&gt;]20180127 怼周会 分享及纪要 · Issue #342 · DebugUself/du4proto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;@OMlalala 是也乎,(￣▽￣)
+
+Doc.leo
+- 大家为什么要来参与翻译工程?
+    + 这才是第一动力问题哪...
+    + 不回答好, 根本无法吸引新人的
+- 另外, 叕一次启动中文版本文档翻译的话
+    + 为什么不第一时间联系 EKR 咨询有什么好的建议?
+    + 以及翻译工程的不同阶段有什么里程碑的指标?
+        * 翻译多少比例后, 可以进入官方文档仓库?
+        * 翻译多少后第一个版本? 有什么奖励?
+        * ...
+- 进一步的:
+    + 各种角色的参与
+    + 仅仅有文字嗯哼, 是不够的
+    + 和其它所有工程的发动类似
+    + 一定要尽可能友好的给出操作手册/教程/视频/...
+    + 以及:
+        * 如何可以实时知道整体工程的进展?
+        * 贡献者状态?
+        * ..
+&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id="_6"&gt;时间记录&lt;a class="headerlink" href="#_6" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;总计: 57h15m &lt;ul&gt;
+&lt;li&gt;180107-180113: 18h5m&lt;/li&gt;
+&lt;li&gt;180114-180120: 12h10m&lt;/li&gt;
+&lt;li&gt;180121-180127: 17h15m&lt;/li&gt;
+&lt;li&gt;180128-180131: 9h45m&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="tl"&gt;&lt;span class="caps"&gt;TL&lt;/span&gt;&lt;a class="headerlink" href="#tl" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;180204 init 1h20m&lt;/p&gt;</content><category term="debuguself"></category></entry><entry><title>“Alfred workflow 初阶探索”</title><link href="http://omlalala.io/2017-09-02-alfred-workflow.html" rel="alternate"></link><published>2017-09-04T21:02:37+08:00</published><updated>2017-09-04T21:02:37+08:00</updated><author><name>OMlalala</name></author><id>tag:omlalala.io,2017-09-04:/2017-09-02-alfred-workflow.html</id><summary type="html">
 &lt;h3 id="_1"&gt;背景&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;最近通过广度优先搜索，收集投资领域的牛人资料。&lt;/p&gt;
 &lt;p&gt;参照 &lt;a href="https://github.com/heshenxian1"&gt;@heshenxian1&lt;/a&gt; 整理的 牛人智库清单：&lt;a href="https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/ZABJPABM"&gt;wisdom-sage&lt;/a&gt;&lt;/p&gt;
@@ -107,7 +380,7 @@
 &lt;h3 id="_3"&gt;斯坦诺维奇&lt;a class="headerlink" href="#_3" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;此人就是加拿大认知科学家：斯坦诺维奇 (Keith E. Stanovich,
 1950年12月13日-)，2012年美国心理学会（&lt;span class="caps"&gt;APA&lt;/span&gt;）终身成就奖获得者。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="stanovich" src="/images/keith_stanovich.png" style="width: 291px; height: auto; max-width: 100%;"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="stanovich" src="../images/keith_stanovich.png" style="width: 291px; height: auto; max-width: 100%;"/&gt;&lt;/p&gt;
 &lt;p&gt;著作包括&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -260,7 +533,7 @@
 &lt;p&gt;”世界知识管理之父“ &lt;a href="http://wiki.mbalib.com/wiki/%E9%87%8E%E4%B8%AD%E9%83%81%E6%AC%A1%E9%83%8E"&gt;野中郁次郎&lt;/a&gt;（Ikujiro Nonaka，1935年5月10日-）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;img alt="野中郁次郎" src="/images/野中郁次郎.jpg" style="width: 180px; height: auto; max-width: 100%;"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="野中郁次郎" src="../images/野中郁次郎.jpg" style="width: 180px; height: auto; max-width: 100%;"/&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;代表作是他和竹内弘高合著的 &lt;a href="https://book.douban.com/subject/1811450/"&gt;《创造知识的企业》&lt;/a&gt;（The Knowledge Creating Company）。&lt;/p&gt;
@@ -275,7 +548,7 @@
 &lt;/li&gt;
 &lt;li&gt;SECI模型是什么？&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="SCEI模型" src="/images/SCEI模型.gif"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="SCEI模型" src="../images/SCEI模型.gif"/&gt;&lt;/p&gt;
 &lt;p&gt;现在，再回顾大妈的语音，才重新理解知识循环中的外在化、内在化、社会化等概念，明白了为什么要不断输出。&lt;/p&gt;
 &lt;h3 id="_7"&gt;对翻译的困惑&lt;a class="headerlink" href="#_7" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;阅读第一章的过程中，采用了中英结合的方法：先中文后原文。 但实践中，产生了一些困惑。&lt;/p&gt;
@@ -334,4 +607,4 @@
 &lt;p&gt;以上就是我使用卡片大法阅读第一章的实践笔记。
 第一章很精彩，还有很多内容在此文未涉及，比如 “常识的误区” 等节。 谢谢阅读，也还请各位多提宝贵意见。&lt;/p&gt;
 &lt;h3 id="changelog"&gt;ChangeLog&lt;a class="headerlink" href="#changelog" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;20170415 Init&lt;/p&gt;</content><category term="psychology"></category><category term="stanovich"></category></entry><entry><title>My First Review</title><link href="http://omlalala.io/keyboard-review.html" rel="alternate"></link><published>2010-12-03T10:20:00+08:00</published><updated>2010-12-03T10:20:00+08:00</updated><author><name>OMlalala</name></author><id>tag:omlalala.io,2010-12-03:/keyboard-review.html</id><summary type="html">&lt;p&gt;Following is a review of my favorite mechanical keyboard.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Following is a review of my favorite mechanical keyboard.&lt;/p&gt;</content></entry></feed>
+&lt;p&gt;20170415 Init&lt;/p&gt;</content><category term="psychology"></category><category term="stanovich"></category></entry></feed>
