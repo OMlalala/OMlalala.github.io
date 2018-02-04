@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>OMlalala.io - Debuguself</title><link href="http://omlalala.io/" rel="alternate"></link><link href="http://omlalala.io/feeds/debuguself.atom.xml" rel="self"></link><id>http://omlalala.io/</id><updated>2018-02-04T15:02:40+08:00</updated><entry><title>“2018年1月总结”</title><link href="http://omlalala.io/2018-02-04-summary-1801.html" rel="alternate"></link><published>2018-02-04T15:02:40+08:00</published><updated>2018-02-04T15:02:40+08:00</updated><author><name>OMlalala</name></author><id>tag:omlalala.io,2018-02-04:/2018-02-04-summary-1801.html</id><summary type="html">
-&lt;h1 id="20181"&gt;2018年1月总结&lt;a class="headerlink" href="#20181" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>OMlalala.io - Debuguself</title><link href="http://omlalala.io/" rel="alternate"></link><link href="http://omlalala.io/feeds/debuguself.atom.xml" rel="self"></link><id>http://omlalala.io/</id><updated>2018-02-04T15:20:53+08:00</updated><entry><title>“2018年1月总结”</title><link href="http://omlalala.io/2018-02-04-summary-1801.html" rel="alternate"></link><published>2018-02-04T15:20:53+08:00</published><updated>2018-02-04T15:20:53+08:00</updated><author><name>OMlalala</name></author><id>tag:omlalala.io,2018-02-04:/2018-02-04-summary-1801.html</id><summary type="html">
 &lt;h2 id="_1"&gt;背景&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;竹子已坚持写了 7 年的年度总结: &lt;a href="http://bambooom.github.io/2017/12/27/2017-summary/"&gt;2017 总结 - Bambooom&lt;/a&gt;&lt;/li&gt;
@@ -23,8 +22,7 @@
 &lt;/li&gt;
 &lt;li&gt;探索&lt;ul&gt;
 &lt;li&gt;汇总了大妈写的各种 Leo 教程: &lt;a href="https://github.com/DebugUself/leo-editor-cn/wiki/zoomquiet-leo"&gt;狮从大妈&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;其中最触动我的是一句话: “文学化编程, 是真正的将思维对应到代码内在结构上, 而不是语法结构 …&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">
-&lt;h1 id="20181"&gt;2018年1月总结&lt;a class="headerlink" href="#20181" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;li&gt;其中最触动我的是一句话: “文学化编程, 是真正的将思维对应到代码内在结构上, 而不是语法结构, 这对程序员而言 …&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">
 &lt;h2 id="_1"&gt;背景&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;竹子已坚持写了 7 年的年度总结: &lt;a href="http://bambooom.github.io/2017/12/27/2017-summary/"&gt;2017 总结 - Bambooom&lt;/a&gt;&lt;/li&gt;
