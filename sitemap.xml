@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/</loc>
-<lastmod>2018-06-23T23:56:52-00:00</lastmod>
+<lastmod>2018-06-24T00:09:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://omlalala.io/archives.html</loc>
-<lastmod>2018-06-23T23:56:52-00:00</lastmod>
+<lastmod>2018-06-24T00:09:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://omlalala.io/tags.html</loc>
-<lastmod>2018-06-23T23:56:52-00:00</lastmod>
+<lastmod>2018-06-24T00:09:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://omlalala.io/categories.html</loc>
-<lastmod>2018-06-23T23:56:52-00:00</lastmod>
+<lastmod>2018-06-24T00:09:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://omlalala.io/2018-06-23-book-notes-shoucai-1.html</loc>
-<lastmod>2018-06-23T23:55:28+08:00</lastmod>
+<lastmod>2018-06-24T00:09:22+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -61,7 +61,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/category/debuguself.html</loc>
-<lastmod>2018-06-23T23:55:28+08:06</lastmod>
+<lastmod>2018-06-24T00:09:22+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,7 +75,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/tag/value-investing.html</loc>
-<lastmod>2018-06-23T23:55:28+08:06</lastmod>
+<lastmod>2018-06-24T00:09:22+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -117,7 +117,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/author/omlalala.html</loc>
-<lastmod>2018-06-23T23:55:28+08:06</lastmod>
+<lastmod>2018-06-24T00:09:22+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
