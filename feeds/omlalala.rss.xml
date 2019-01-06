@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>OMlalala.io - OMlalala</title><link>http://omlalala.io/</link><description></description><lastBuildDate>Sun, 06 Jan 2019 19:53:07 +0800</lastBuildDate><item><title>2018年总结</title><link>http://omlalala.io/2019-01-06-summary-2018.html</link><description>
+<rss version="2.0"><channel><title>OMlalala.io - OMlalala</title><link>http://omlalala.io/</link><description></description><lastBuildDate>Sun, 06 Jan 2019 23:36:53 +0800</lastBuildDate><item><title>自怼周报-2019年第1周</title><link>http://omlalala.io/2019-01-06-summary-19w1.html</link><description>
+&lt;h2 id="_1"&gt;时间&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;181230-190105&lt;/p&gt;
+&lt;h2 id="_2"&gt;总结&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;根据 &lt;a href="http://omlalala.io/2019-01-06-summary-2018.html#_16"&gt;2018年总结&lt;/a&gt; 中的承诺, 今天补交2019年第1周总结.&lt;/p&gt;
+&lt;h3 id="_3"&gt;蟒营&lt;a class="headerlink" href="#_3" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;2018年的尾巴, 大妈的 &lt;a href="https://gitlab.com/101camp"&gt;蟒营 Python 入门班&lt;/a&gt; 开班了.&lt;/p&gt;
+&lt;h4 id="_4"&gt;入营目的&lt;a class="headerlink" href="#_4" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;公开渠道推荐后, 有四个朋友咨询, 沟通后, 发现有一个好朋友最合适, 就推荐入营了.&lt;/p&gt;
+&lt;p&gt;因为我之前已经参加过大妈的课程: &lt;a href="https://github.com/AIMinder/Py103/wiki"&gt;开智学堂编程思维 Python 基础班三期&lt;/a&gt;, 所以这次入营有两个目的&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;协助好朋友度过课程中的 “至暗时刻”, 增加通关概率&lt;/li&gt;
+&lt;li&gt;再次培养/提升自己的编程能力&lt;ul&gt;
+&lt;li&gt;持续 logging 的基本功. (向 &lt;a href="https://github.com/XiaoYanWork"&gt;@小焱&lt;/a&gt; 学习)&lt;/li&gt;
+&lt;li&gt;输出习惯&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="_5"&gt;意外收获&lt;a class="headerlink" href="#_5" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;发现还有一个老乡 &lt;a href="https://github.com/recaff"&gt;@recaff&lt;/a&gt; 也在嗯哼, 才发现还在其他地方相识过…(开智写作五期, 自怼圈)&lt;/p&gt;
+&lt;p&gt;希望能彼此鼓励, 交出一个满意的大作业.&lt;/p&gt;
+&lt;h4 id="_6"&gt;可公开的文章&lt;a class="headerlink" href="#_6" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;目前没有可公开的对某一工具或方法的嗯哼教程, 这也是下周需要努力改变的.&lt;/p&gt;
+&lt;p&gt;争取能输出可公开的嗯哼文章 …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">OMlalala</dc:creator><pubDate>Sun, 06 Jan 2019 23:36:53 +0800</pubDate><guid isPermaLink="false">tag:omlalala.io,2019-01-06:/2019-01-06-summary-19w1.html</guid><category>debuguself</category></item><item><title>2018年总结</title><link>http://omlalala.io/2019-01-06-summary-2018.html</link><description>
 &lt;h2 id="_1"&gt;缘起&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;2018年1月, 计划每月一篇写月度总结. 结果回首, 只写了一篇: &lt;a href="http://omlalala.io/2018-02-04-summary-1801.html"&gt;2018年1月总结&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;借口是完美主义作怪, 每到月底, 总有各种理由艰难提笔.&lt;/p&gt;
