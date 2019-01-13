@@ -1,5 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>OMlalala.io - OMlalala</title><link href="http://omlalala.io/" rel="alternate"></link><link href="http://omlalala.io/feeds/omlalala.atom.xml" rel="self"></link><id>http://omlalala.io/</id><updated>2019-01-06T23:36:53+08:00</updated><entry><title>自怼周报-2019年第1周</title><link href="http://omlalala.io/2019-01-06-summary-19w1.html" rel="alternate"></link><published>2019-01-06T23:36:53+08:00</published><updated>2019-01-06T23:36:53+08:00</updated><author><name>OMlalala</name></author><id>tag:omlalala.io,2019-01-06:/2019-01-06-summary-19w1.html</id><summary type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>OMlalala.io - OMlalala</title><link href="http://omlalala.io/" rel="alternate"></link><link href="http://omlalala.io/feeds/omlalala.atom.xml" rel="self"></link><id>http://omlalala.io/</id><updated>2019-01-13T23:21:55+08:00</updated><entry><title>自怼周报-2019年第2周</title><link href="http://omlalala.io/2019-01-13-summary-19w2.html" rel="alternate"></link><published>2019-01-13T23:21:55+08:00</published><updated>2019-01-13T23:21:55+08:00</updated><author><name>OMlalala</name></author><id>tag:omlalala.io,2019-01-13:/2019-01-13-summary-19w2.html</id><summary type="html">
+&lt;h2 id="_1"&gt;时间&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;190106-190112&lt;/p&gt;
+&lt;h2 id="_2"&gt;总结&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="_3"&gt;蟒营&lt;a class="headerlink" href="#_3" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这周是蟒营的 ch02, 本周主要刻意练习了两个方面&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;logging&lt;/li&gt;
+&lt;li&gt;番茄钟&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="logging"&gt;logging&lt;a class="headerlink" href="#logging" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;这是第一周探索时, 被 @小焱 所惊到的技能. 竟然能忠实记录探索的过程.&lt;/p&gt;
+&lt;p&gt;所以本周, 我也尝试在探索项目子任务的时候, 尽可能记录探索的过程.&lt;/p&gt;
+&lt;p&gt;主要包括&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;任务拆解&lt;/li&gt;
+&lt;li&gt;遇到的问题&lt;/li&gt;
+&lt;li&gt;搜索到的回答链接&lt;/li&gt;
+&lt;li&gt;命令行的操作及反馈&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;通过记录探索过程, 暂时发现以下好处&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;方便回顾之前的探索记录&lt;/li&gt;
+&lt;li&gt;万一遇到 bug, 可以根据记录回溯&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="_4"&gt;番茄钟&lt;a class="headerlink" href="#_4" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;上周在探索时, 采取的是最小行动, 每完成一个自己定的小任务, 都会停止探索, 先记录时间.&lt;/p&gt;
+&lt;p&gt;导致完成子任务的时间不一, 比如有的完成了 7 分钟, 有的完成了 20 分钟等.&lt;/p&gt;
+&lt;p&gt;大妈在 issue 里提醒, 建议以 .5h 为最小探索时间, 且每一个番茄钟里, 尽可能包含 …&lt;/p&gt;</summary><content type="html">
+&lt;h2 id="_1"&gt;时间&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;190106-190112&lt;/p&gt;
+&lt;h2 id="_2"&gt;总结&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="_3"&gt;蟒营&lt;a class="headerlink" href="#_3" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这周是蟒营的 ch02, 本周主要刻意练习了两个方面&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;logging&lt;/li&gt;
+&lt;li&gt;番茄钟&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="logging"&gt;logging&lt;a class="headerlink" href="#logging" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;这是第一周探索时, 被 @小焱 所惊到的技能. 竟然能忠实记录探索的过程.&lt;/p&gt;
+&lt;p&gt;所以本周, 我也尝试在探索项目子任务的时候, 尽可能记录探索的过程.&lt;/p&gt;
+&lt;p&gt;主要包括&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;任务拆解&lt;/li&gt;
+&lt;li&gt;遇到的问题&lt;/li&gt;
+&lt;li&gt;搜索到的回答链接&lt;/li&gt;
+&lt;li&gt;命令行的操作及反馈&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;通过记录探索过程, 暂时发现以下好处&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;方便回顾之前的探索记录&lt;/li&gt;
+&lt;li&gt;万一遇到 bug, 可以根据记录回溯&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="_4"&gt;番茄钟&lt;a class="headerlink" href="#_4" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;上周在探索时, 采取的是最小行动, 每完成一个自己定的小任务, 都会停止探索, 先记录时间.&lt;/p&gt;
+&lt;p&gt;导致完成子任务的时间不一, 比如有的完成了 7 分钟, 有的完成了 20 分钟等.&lt;/p&gt;
+&lt;p&gt;大妈在 issue 里提醒, 建议以 .5h 为最小探索时间, 且每一个番茄钟里, 尽可能包含 探索/实验/回顾/总结 等&lt;/p&gt;
+&lt;p&gt;所以, 本周按照大妈的建议, 每次探索时, 都会上一个半小时的闹钟. 通过一周的实践, 发现效果不错.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;每个钟的时间里, 精神相对较集中, 闹钟响起时, 总感觉时间过得很快.&lt;/li&gt;
+&lt;li&gt;如果连续两至三个钟, 对同一个问题还没有结果, 会及时止损.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在以下方面, 还需要提高&lt;/p&gt;
+&lt;h4 id="_5"&gt;任务选择&lt;a class="headerlink" href="#_5" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;本周开始, 有了基础任务和拓展任务.&lt;/p&gt;
+&lt;p&gt;本以为基础任务已经完成, 所以想探索拓展任务. 结果看到大妈/助教和其他学员的互动, 才发现之前的基础任务还是有可以改进的地方.&lt;/p&gt;
+&lt;p&gt;比如时间的格式, 关于输入的复杂性等.&lt;/p&gt;
+&lt;p&gt;但是因为贪恋拓展任务, 想第一个完成, 着急之下, 反而影响进度, 最后没有按时完成.&lt;/p&gt;
+&lt;h4 id="_6"&gt;和其他学员的互动&lt;a class="headerlink" href="#_6" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;连续两周, 缺乏对其他学员的互动, 比如评论 issue 等. &lt;/p&gt;
+&lt;p&gt;下周会增加互动环节.&lt;/p&gt;
+&lt;h3 id="_7"&gt;生活&lt;a class="headerlink" href="#_7" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本周下馆子两次
+- 嫂子来北京出差, 结果一时失误, 让嫂子先买了单…
+- 和女神闺蜜的朋友第一次吃饭, 也对投资股票感兴趣, 更偏向于短线操作, 所以聊的不太深入, 因为我不了解短线操作…&lt;/p&gt;
+&lt;h3 id="_8"&gt;时间记录&lt;a class="headerlink" href="#_8" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本周工作之余嗯哼 18.5 h&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;蟒营, ch02, 13h&lt;/li&gt;
+&lt;li&gt;DebugUself (年度总结和第一周总结), 4.5h &lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;CFA&lt;/span&gt; (权益), 1h&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="changelog"&gt;ChangeLog&lt;a class="headerlink" href="#changelog" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;190113 init&lt;/p&gt;</content><category term="debuguself"></category></entry><entry><title>自怼周报-2019年第1周</title><link href="http://omlalala.io/2019-01-06-summary-19w1.html" rel="alternate"></link><published>2019-01-06T23:36:53+08:00</published><updated>2019-01-06T23:36:53+08:00</updated><author><name>OMlalala</name></author><id>tag:omlalala.io,2019-01-06:/2019-01-06-summary-19w1.html</id><summary type="html">
 &lt;h2 id="_1"&gt;时间&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;181230-190105&lt;/p&gt;
 &lt;h2 id="_2"&gt;总结&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
@@ -546,22 +629,22 @@ DebugUself/du4proto at MX4Leo
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/DebugUself/du4proto/issues/335#issuecomment-357434382"&gt;42h[&lt;span class="caps"&gt;TASK&lt;/span&gt;]20180113 怼周会 分享及纪要 · Issue #335 · DebugUself/du4proto&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;@&lt;/span&gt;OMlalala 是也乎&lt;span class="p"&gt;,(&lt;/span&gt;￣▽￣&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;@&lt;/span&gt;&lt;span class="n"&gt;OMlalala&lt;/span&gt; 是也乎&lt;span class="p"&gt;,(&lt;/span&gt;￣▽￣&lt;span class="p"&gt;)&lt;/span&gt;
 
-得理解 gh&lt;span class="o"&gt;-&lt;/span&gt;pages 服务是什么&lt;span class="p"&gt;,&lt;/span&gt; 究竟在作了什么&lt;span class="o"&gt;?&lt;/span&gt;
+得理解 &lt;span class="n"&gt;gh&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;pages&lt;/span&gt; 服务是什么&lt;span class="p"&gt;,&lt;/span&gt; 究竟在作了什么&lt;span class="o"&gt;?&lt;/span&gt;
 你才能理解&lt;span class="p"&gt;,&lt;/span&gt; 并合理利用&lt;span class="p"&gt;,&lt;/span&gt; 结合到自己的各种工程&lt;span class="kc"&gt;...&lt;/span&gt;
 
 俺用到现在的理解&lt;span class="o"&gt;:&lt;/span&gt;
 
-&lt;span class="o"&gt;-&lt;/span&gt; gh&lt;span class="o"&gt;-&lt;/span&gt;pages 服务如其名
-&lt;span class="o"&gt;-&lt;/span&gt; 核心功能&lt;span class="p"&gt;,&lt;/span&gt; 就是 pages 发行
-&lt;span class="o"&gt;-&lt;/span&gt; pages 可以有两类&lt;span class="o"&gt;:&lt;/span&gt;
-    &lt;span class="o"&gt;+&lt;/span&gt; jekyll 工程 &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; 将自动在服务端完成编译 &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; html
-    &lt;span class="o"&gt;+&lt;/span&gt; html 页面集 &lt;span class="o"&gt;&amp;lt;-&lt;/span&gt; 必须事先在本地&lt;span class="o"&gt;/&lt;/span&gt;其它服务完成编译
-&lt;span class="o"&gt;-&lt;/span&gt; 所以&lt;span class="p"&gt;,&lt;/span&gt; Leo 的文档基于 rST 格式的 Sphinx 网站组织的
-    &lt;span class="o"&gt;+&lt;/span&gt; 那么&lt;span class="p"&gt;,&lt;/span&gt; 提供自动脚本 &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; fabric 
+&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;gh&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;pages&lt;/span&gt; 服务如其名
+&lt;span class="o"&gt;-&lt;/span&gt; 核心功能&lt;span class="p"&gt;,&lt;/span&gt; 就是 &lt;span class="n"&gt;pages&lt;/span&gt; 发行
+&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;pages&lt;/span&gt; 可以有两类&lt;span class="o"&gt;:&lt;/span&gt;
+    &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="n"&gt;jekyll&lt;/span&gt; 工程 &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; 将自动在服务端完成编译 &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;html&lt;/span&gt;
+    &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="n"&gt;html&lt;/span&gt; 页面集 &lt;span class="o"&gt;&amp;lt;-&lt;/span&gt; 必须事先在本地&lt;span class="o"&gt;/&lt;/span&gt;其它服务完成编译
+&lt;span class="o"&gt;-&lt;/span&gt; 所以&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Leo&lt;/span&gt; 的文档基于 &lt;span class="n"&gt;rST&lt;/span&gt; 格式的 &lt;span class="n"&gt;Sphinx&lt;/span&gt; 网站组织的
+    &lt;span class="o"&gt;+&lt;/span&gt; 那么&lt;span class="p"&gt;,&lt;/span&gt; 提供自动脚本 &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;fabric&lt;/span&gt; 
     &lt;span class="o"&gt;+&lt;/span&gt; 在本地完成编译&lt;span class="p"&gt;,&lt;/span&gt; 指定输出到对应目录&lt;span class="o"&gt;/&lt;/span&gt;分支中&lt;span class="kc"&gt;...&lt;/span&gt;
-    &lt;span class="o"&gt;+&lt;/span&gt; push 上 github &lt;span class="p"&gt;,&lt;/span&gt; 即完成发布
+    &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="n"&gt;push&lt;/span&gt; 上 &lt;span class="n"&gt;github&lt;/span&gt; &lt;span class="p"&gt;,&lt;/span&gt; 即完成发布
     &lt;span class="o"&gt;+&lt;/span&gt; 然后&lt;span class="p"&gt;,&lt;/span&gt; 域名绑定什么的都是官方文档的嗯哼了
 &lt;/pre&gt;&lt;/div&gt;
 &lt;h3 id="0120"&gt;0120&lt;a class="headerlink" href="#0120" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;

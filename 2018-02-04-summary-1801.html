@@ -40,14 +40,14 @@
 
 
 
-        <link href="http://omlalala.io/feeds/debuguself.atom.xml" type="application/atom+xml" rel="alternate"
+        <link href="http://omlalala.io/feeds/{slug}.atom.xml" type="application/atom+xml" rel="alternate"
               title="OMlalala.io Debuguself ATOM Feed"/>
 
 </head>
 <body>
 
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-	<div class="container">
+    <div class="container">
         <div class="navbar-header">
             <a href="http://omlalala.io/" class="navbar-brand">
 OMlalala.io            </a>
@@ -61,8 +61,11 @@ OMlalala.io            </a>
         <!-- /.navbar-collapse -->
     </div>
 </div> <!-- /.navbar -->
+
 <!-- Banner -->
 <!-- End Banner -->
+
+<!-- Content Container -->
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
@@ -272,22 +275,22 @@ DebugUself/du4proto at MX4Leo
 <ul>
 <li><a href="https://github.com/DebugUself/du4proto/issues/335#issuecomment-357434382">42h[<span class="caps">TASK</span>]20180113 怼周会 分享及纪要 · Issue #335 · DebugUself/du4proto</a></li>
 </ul>
-<div class="highlight"><pre><span></span><span class="o">@</span>OMlalala 是也乎<span class="p">,(</span>￣▽￣<span class="p">)</span>
+<div class="highlight"><pre><span></span><span class="o">@</span><span class="n">OMlalala</span> 是也乎<span class="p">,(</span>￣▽￣<span class="p">)</span>
 
-得理解 gh<span class="o">-</span>pages 服务是什么<span class="p">,</span> 究竟在作了什么<span class="o">?</span>
+得理解 <span class="n">gh</span><span class="o">-</span><span class="n">pages</span> 服务是什么<span class="p">,</span> 究竟在作了什么<span class="o">?</span>
 你才能理解<span class="p">,</span> 并合理利用<span class="p">,</span> 结合到自己的各种工程<span class="kc">...</span>
 
 俺用到现在的理解<span class="o">:</span>
 
-<span class="o">-</span> gh<span class="o">-</span>pages 服务如其名
-<span class="o">-</span> 核心功能<span class="p">,</span> 就是 pages 发行
-<span class="o">-</span> pages 可以有两类<span class="o">:</span>
-    <span class="o">+</span> jekyll 工程 <span class="o">-&gt;</span> 将自动在服务端完成编译 <span class="o">-&gt;</span> html
-    <span class="o">+</span> html 页面集 <span class="o">&lt;-</span> 必须事先在本地<span class="o">/</span>其它服务完成编译
-<span class="o">-</span> 所以<span class="p">,</span> Leo 的文档基于 rST 格式的 Sphinx 网站组织的
-    <span class="o">+</span> 那么<span class="p">,</span> 提供自动脚本 <span class="o">-&gt;</span> fabric 
+<span class="o">-</span> <span class="n">gh</span><span class="o">-</span><span class="n">pages</span> 服务如其名
+<span class="o">-</span> 核心功能<span class="p">,</span> 就是 <span class="n">pages</span> 发行
+<span class="o">-</span> <span class="n">pages</span> 可以有两类<span class="o">:</span>
+    <span class="o">+</span> <span class="n">jekyll</span> 工程 <span class="o">-&gt;</span> 将自动在服务端完成编译 <span class="o">-&gt;</span> <span class="n">html</span>
+    <span class="o">+</span> <span class="n">html</span> 页面集 <span class="o">&lt;-</span> 必须事先在本地<span class="o">/</span>其它服务完成编译
+<span class="o">-</span> 所以<span class="p">,</span> <span class="n">Leo</span> 的文档基于 <span class="n">rST</span> 格式的 <span class="n">Sphinx</span> 网站组织的
+    <span class="o">+</span> 那么<span class="p">,</span> 提供自动脚本 <span class="o">-&gt;</span> <span class="n">fabric</span> 
     <span class="o">+</span> 在本地完成编译<span class="p">,</span> 指定输出到对应目录<span class="o">/</span>分支中<span class="kc">...</span>
-    <span class="o">+</span> push 上 github <span class="p">,</span> 即完成发布
+    <span class="o">+</span> <span class="n">push</span> 上 <span class="n">github</span> <span class="p">,</span> 即完成发布
     <span class="o">+</span> 然后<span class="p">,</span> 域名绑定什么的都是官方文档的嗯哼了
 </pre></div>
 <h3 id="0120">0120<a class="headerlink" href="#0120" title="Permanent link">¶</a></h3>
@@ -354,14 +357,11 @@ Doc.leo
         <script type="text/javascript">
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
             var disqus_shortname = 'omlalalaio'; // required: replace example with your forum shortname
-
-                    var disqus_identifier = '2018-02-04-summary-1801';
-                var disqus_url = 'http://omlalala.io/2018-02-04-summary-1801.html';
-
             var disqus_config = function () {
                 this.language = "zh_cn";
+                        this.page.identifier = '2019-01-06-2018-02-04-summary-1801';
+                        this.page.url = 'http://omlalala.io/2018-02-04-summary-1801.html';
             };
-
             /* * * DON'T EDIT BELOW THIS LINE * * */
             (function () {
                 var dsq = document.createElement('script');
@@ -401,6 +401,8 @@ Doc.leo
         </div>
     </div>
 </div>
+<!-- End Content Container -->
+
 <footer>
    <div class="container">
       <hr>

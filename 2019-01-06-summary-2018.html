@@ -40,14 +40,14 @@
 
 
 
-        <link href="http://omlalala.io/feeds/debuguself.atom.xml" type="application/atom+xml" rel="alternate"
+        <link href="http://omlalala.io/feeds/{slug}.atom.xml" type="application/atom+xml" rel="alternate"
               title="OMlalala.io Debuguself ATOM Feed"/>
 
 </head>
 <body>
 
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-	<div class="container">
+    <div class="container">
         <div class="navbar-header">
             <a href="http://omlalala.io/" class="navbar-brand">
 OMlalala.io            </a>
@@ -61,8 +61,11 @@ OMlalala.io            </a>
         <!-- /.navbar-collapse -->
     </div>
 </div> <!-- /.navbar -->
+
 <!-- Banner -->
 <!-- End Banner -->
+
+<!-- Content Container -->
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
@@ -343,14 +346,11 @@ OMlalala.io            </a>
         <script type="text/javascript">
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
             var disqus_shortname = 'omlalalaio'; // required: replace example with your forum shortname
-
-                    var disqus_identifier = '2019-01-06-summary-2018';
-                var disqus_url = 'http://omlalala.io/2019-01-06-summary-2018.html';
-
             var disqus_config = function () {
                 this.language = "zh_cn";
+                        this.page.identifier = '2019-01-06-2019-01-06-summary-2018';
+                        this.page.url = 'http://omlalala.io/2019-01-06-summary-2018.html';
             };
-
             /* * * DON'T EDIT BELOW THIS LINE * * */
             (function () {
                 var dsq = document.createElement('script');
@@ -390,6 +390,8 @@ OMlalala.io            </a>
         </div>
     </div>
 </div>
+<!-- End Content Container -->
+
 <footer>
    <div class="container">
       <hr>

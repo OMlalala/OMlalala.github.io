@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>OMlalala.io - OMlalala</title><link>http://omlalala.io/</link><description></description><lastBuildDate>Sun, 06 Jan 2019 23:36:53 +0800</lastBuildDate><item><title>自怼周报-2019年第1周</title><link>http://omlalala.io/2019-01-06-summary-19w1.html</link><description>
+<rss version="2.0"><channel><title>OMlalala.io - OMlalala</title><link>http://omlalala.io/</link><description></description><lastBuildDate>Sun, 13 Jan 2019 23:21:55 +0800</lastBuildDate><item><title>自怼周报-2019年第2周</title><link>http://omlalala.io/2019-01-13-summary-19w2.html</link><description>
+&lt;h2 id="_1"&gt;时间&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;190106-190112&lt;/p&gt;
+&lt;h2 id="_2"&gt;总结&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="_3"&gt;蟒营&lt;a class="headerlink" href="#_3" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这周是蟒营的 ch02, 本周主要刻意练习了两个方面&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;logging&lt;/li&gt;
+&lt;li&gt;番茄钟&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="logging"&gt;logging&lt;a class="headerlink" href="#logging" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;这是第一周探索时, 被 @小焱 所惊到的技能. 竟然能忠实记录探索的过程.&lt;/p&gt;
+&lt;p&gt;所以本周, 我也尝试在探索项目子任务的时候, 尽可能记录探索的过程.&lt;/p&gt;
+&lt;p&gt;主要包括&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;任务拆解&lt;/li&gt;
+&lt;li&gt;遇到的问题&lt;/li&gt;
+&lt;li&gt;搜索到的回答链接&lt;/li&gt;
+&lt;li&gt;命令行的操作及反馈&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;通过记录探索过程, 暂时发现以下好处&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;方便回顾之前的探索记录&lt;/li&gt;
+&lt;li&gt;万一遇到 bug, 可以根据记录回溯&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="_4"&gt;番茄钟&lt;a class="headerlink" href="#_4" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;上周在探索时, 采取的是最小行动, 每完成一个自己定的小任务, 都会停止探索, 先记录时间.&lt;/p&gt;
+&lt;p&gt;导致完成子任务的时间不一, 比如有的完成了 7 分钟, 有的完成了 20 分钟等.&lt;/p&gt;
+&lt;p&gt;大妈在 issue 里提醒, 建议以 .5h 为最小探索时间, 且每一个番茄钟里, 尽可能包含 …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">OMlalala</dc:creator><pubDate>Sun, 13 Jan 2019 23:21:55 +0800</pubDate><guid isPermaLink="false">tag:omlalala.io,2019-01-13:/2019-01-13-summary-19w2.html</guid><category>debuguself</category></item><item><title>自怼周报-2019年第1周</title><link>http://omlalala.io/2019-01-06-summary-19w1.html</link><description>
 &lt;h2 id="_1"&gt;时间&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;181230-190105&lt;/p&gt;
 &lt;h2 id="_2"&gt;总结&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
