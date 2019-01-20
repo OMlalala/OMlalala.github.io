@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/</loc>
-<lastmod>2019-01-14T00:49:37-00:00</lastmod>
+<lastmod>2019-01-20T23:14:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://omlalala.io/archives.html</loc>
-<lastmod>2019-01-14T00:49:37-00:00</lastmod>
+<lastmod>2019-01-20T23:14:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://omlalala.io/tags.html</loc>
-<lastmod>2019-01-14T00:49:37-00:00</lastmod>
+<lastmod>2019-01-20T23:14:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://omlalala.io/categories.html</loc>
-<lastmod>2019-01-14T00:49:37-00:00</lastmod>
+<lastmod>2019-01-20T23:14:03-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://omlalala.io/2019-01-20-summary-19w3.html</loc>
+<lastmod>2019-01-20T23:13:17+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -75,7 +82,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/category/debuguself.html</loc>
-<lastmod>2019-01-13T23:21:55+08:06</lastmod>
+<lastmod>2019-01-20T23:13:17+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -89,7 +96,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/tag/debuguself.html</loc>
-<lastmod>2019-01-13T23:21:55+08:06</lastmod>
+<lastmod>2019-01-20T23:13:17+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -124,7 +131,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/author/omlalala.html</loc>
-<lastmod>2019-01-13T23:21:55+08:06</lastmod>
+<lastmod>2019-01-20T23:13:17+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
