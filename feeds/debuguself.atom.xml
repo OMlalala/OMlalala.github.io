@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>OMlalala.io - Debuguself</title><link href="http://omlalala.io/" rel="alternate"></link><link href="http://omlalala.io/feeds/debuguself.atom.xml" rel="self"></link><id>http://omlalala.io/</id><updated>2019-01-22T00:47:37+08:00</updated><entry><title>Simon Sinek 的 TED 演讲笔记</title><link href="http://omlalala.io/2019-01-21-simon-sinek.html" rel="alternate"></link><published>2019-01-22T00:47:37+08:00</published><updated>2019-01-22T00:47:37+08:00</updated><author><name>OMlalala</name></author><id>tag:omlalala.io,2019-01-22:/2019-01-21-simon-sinek.html</id><summary type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>OMlalala.io - Debuguself</title><link href="http://omlalala.io/" rel="alternate"></link><link href="http://omlalala.io/feeds/debuguself.atom.xml" rel="self"></link><id>http://omlalala.io/</id><updated>2019-01-22T00:54:06+08:00</updated><entry><title>Simon Sinek 的 TED 演讲笔记</title><link href="http://omlalala.io/2019-01-21-simon-sinek.html" rel="alternate"></link><published>2019-01-22T00:54:06+08:00</published><updated>2019-01-22T00:54:06+08:00</updated><author><name>OMlalala</name></author><id>tag:omlalala.io,2019-01-22:/2019-01-21-simon-sinek.html</id><summary type="html">
 &lt;h2 id="_1"&gt;缘起&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;周末看到了金栋老师的文章 &lt;a href="https://zhuanlan.zhihu.com/p/55313652"&gt;指数量化投资 #68 - 长赢Landing页面解读一&lt;/a&gt;, 文中提到&lt;/p&gt;
 &lt;blockquote&gt;
@@ -37,9 +37,11 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;参考
-- &lt;a href="https://startwithwhy.com/"&gt;个人主页&lt;/a&gt;
-- &lt;a href="https://en.wikipedia.org/wiki/Simon_Sinek"&gt;wiki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;参考&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://startwithwhy.com/"&gt;个人主页&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Simon_Sinek"&gt;wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id="ted"&gt;&lt;span class="caps"&gt;TED&lt;/span&gt; 演讲笔记&lt;a class="headerlink" href="#ted" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;下面是其演讲笔记, 看之前以为其提出的 &lt;code&gt;why-who-what&lt;/code&gt;, 是对 &lt;a href="https://wiki.mbalib.com/wiki/5W1H%E5%88%86%E6%9E%90%E6%B3%95"&gt;&lt;span class="caps"&gt;5W1H&lt;/span&gt;&lt;/a&gt; 的深入讨论, 实则不然.&lt;/p&gt;
 &lt;p&gt;我理解他的主要观点是: 晓之以理, 动之以情. &lt;/p&gt;
@@ -57,13 +59,17 @@
 &lt;h4 id="golden-circle"&gt;golden circle&lt;a class="headerlink" href="#golden-circle" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;img alt="golden circle" src="../images/2019-01-21-simon-sinek-golden-circle.png" style="width: 482px; height: auto; max-width: 100%;"/&gt;&lt;/p&gt;
 &lt;p&gt;(source: https://en.wikipedia.org/wiki/Simon_Sinek)&lt;/p&gt;
-&lt;p&gt;三个部分
-- why -&amp;gt; purpose? cause? belif? your organization exist?
-- how
-- what&lt;/p&gt;
-&lt;p&gt;思考方式(顺序)
-- 普罗大众: what -&amp;gt; how -&amp;gt; why
-- 伟大领袖: why -&amp;gt; how -&amp;gt; what&lt;/p&gt;
+&lt;p&gt;三个部分&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;why -&amp;gt; purpose? cause? belif? your organization exist?&lt;/li&gt;
+&lt;li&gt;how&lt;/li&gt;
+&lt;li&gt;what&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;思考方式(顺序)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;普罗大众: what -&amp;gt; how -&amp;gt; why&lt;/li&gt;
+&lt;li&gt;伟大领袖: why -&amp;gt; how -&amp;gt; what&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;多元思维(与 biology 结合)&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -106,9 +112,11 @@
 &lt;li&gt;goodreads 评分 1066 人, 73 条评论&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;但是 google scholar 引用超 10 万次!&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Two example
-- famous failure: TiVo
-- famous success: Dr. King “I have a dream” speech&lt;/p&gt;
+&lt;p&gt;Two example&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;famous failure: TiVo&lt;/li&gt;
+&lt;li&gt;famous success: Dr. King “I have a dream” speech&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h4 id="crossing-the-chasm"&gt;Crossing the Chasm&lt;a class="headerlink" href="#crossing-the-chasm" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;img alt="Crossing the Chasm" src="../images/2019-01-21-simon-sinek-crossing-the-chasm.jpeg" style="width: 770px; height: auto; max-width: 100%;"/&gt;&lt;/p&gt;
 &lt;p&gt;术语由 Jeffrey Moore 1991 年提出, 主要观点是在 &lt;code&gt;early adopters&lt;/code&gt; 和 &lt;code&gt;the early majority&lt;/code&gt; 之间, 还存在鸿沟. 著作 &lt;a href="https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-ebook/dp/B00DB3D81G/ref=sr_1_2?keywords=Crossing+the+Chasm&amp;amp;qid=1548088946&amp;amp;s=Kindle+Store&amp;amp;sr=1-2"&gt;Crossing the Chasm&lt;/a&gt; 也是经典!&lt;/p&gt;
@@ -117,12 +125,16 @@
 &lt;li&gt;goodreads 评分 19691 人, 430 条评论&lt;/li&gt;
 &lt;li&gt;但是 google scholar 引用 4387 次&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;参考
-- &lt;a href="http://blog.udn.com/HsuChunYi/45851952"&gt;創新擴散模型Diffusion of Innovation&lt;/a&gt;
-- &lt;a href="https://scholar.google.com/scholar?hl=en&amp;amp;as_sdt=0%2C5&amp;amp;q=Diffusion+of+Innovations&amp;amp;btnG="&gt;diffusion-of-innovations 10 万次引用链接&lt;/a&gt;
-- 阳老师整理的豆列 &lt;a href="https://www.douban.com/doulist/45709528/"&gt;学术界引用最多的 64 本书&lt;/a&gt;, &lt;em&gt;diffusion of innovations&lt;/em&gt; 排第 10 位&lt;/p&gt;
-&lt;p&gt;深度预警
-- 两个意外收获的术语, 还未仔细阅读过相关书籍, 只是照搬 wiki 简述, 仍属司机知识…&lt;/p&gt;
+&lt;p&gt;参考&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://blog.udn.com/HsuChunYi/45851952"&gt;創新擴散模型Diffusion of Innovation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://scholar.google.com/scholar?hl=en&amp;amp;as_sdt=0%2C5&amp;amp;q=Diffusion+of+Innovations&amp;amp;btnG="&gt;diffusion-of-innovations 10 万次引用链接&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;阳老师整理的豆列 &lt;a href="https://www.douban.com/doulist/45709528/"&gt;学术界引用最多的 64 本书&lt;/a&gt;, &lt;em&gt;diffusion of innovations&lt;/em&gt; 排第 10 位&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;深度预警&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;两个意外收获的术语, 还未仔细阅读过相关书籍, 只是照搬 wiki 简述, 仍属司机知识…&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id="ted_1"&gt;其他: &lt;span class="caps"&gt;TED&lt;/span&gt; 使用体验&lt;a class="headerlink" href="#ted_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;看字幕文字时, 点击文字, 视频会自动播放对应位置&lt;/li&gt;
