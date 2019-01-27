@@ -1,5 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>OMlalala.io - OMlalala</title><link href="http://omlalala.io/" rel="alternate"></link><link href="http://omlalala.io/feeds/omlalala.atom.xml" rel="self"></link><id>http://omlalala.io/</id><updated>2019-01-22T00:54:06+08:00</updated><entry><title>Simon Sinek 的 TED 演讲笔记</title><link href="http://omlalala.io/2019-01-21-simon-sinek.html" rel="alternate"></link><published>2019-01-22T00:54:06+08:00</published><updated>2019-01-22T00:54:06+08:00</updated><author><name>OMlalala</name></author><id>tag:omlalala.io,2019-01-22:/2019-01-21-simon-sinek.html</id><summary type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>OMlalala.io - OMlalala</title><link href="http://omlalala.io/" rel="alternate"></link><link href="http://omlalala.io/feeds/omlalala.atom.xml" rel="self"></link><id>http://omlalala.io/</id><updated>2019-01-27T23:50:02+08:00</updated><entry><title>自怼周报-2019年第4周</title><link href="http://omlalala.io/2019-01-27-summary-19w4.html" rel="alternate"></link><published>2019-01-27T23:50:02+08:00</published><updated>2019-01-27T23:50:02+08:00</updated><author><name>OMlalala</name></author><id>tag:omlalala.io,2019-01-27:/2019-01-27-summary-19w4.html</id><summary type="html">
+&lt;h2 id="_1"&gt;时间&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;190120-190126&lt;/p&gt;
+&lt;h2 id="_2"&gt;总结&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="_3"&gt;蟒营&lt;a class="headerlink" href="#_3" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本周是蟒营 ch04&lt;/p&gt;
+&lt;h4 id="_4"&gt;做的好的&lt;a class="headerlink" href="#_4" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;快速嗯哼完成开发任务&lt;ul&gt;
+&lt;li&gt;新建 &lt;code&gt;test.py&lt;/code&gt; 探索功能试验.&lt;/li&gt;
+&lt;li&gt;本周持续做了记录, 并及时提交代码变更记录.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;在蟒营周日的视频会中做了主题分享 -&amp;gt; &lt;a href="https://gitlab.com/101camp/py/issues/102#note_135412087"&gt;Highway To Developments
+190127 @OMlalala&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="_5"&gt;有待改进的&lt;a class="headerlink" href="#_5" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;还是没有做到每天坚持嗯哼&lt;/li&gt;
+&lt;li&gt;研究 &lt;a href="https://click.palletsprojects.com/en/7.x/"&gt;click&lt;/a&gt; 时, 没有及时止损&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="_6"&gt;投资&lt;a class="headerlink" href="#_6" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本周输出一篇作品: &lt;a href="http://omlalala.io/2019-01-21-simon-sinek.html"&gt;Simon Sinek 的 &lt;span class="caps"&gt;TED&lt;/span&gt; 演讲笔记&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="_7"&gt;生活&lt;a class="headerlink" href="#_7" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本周六突然得了肠胃型感冒, 几乎一天半状态不好, 没有学习.&lt;/p&gt;
+&lt;p&gt;两点教训&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;以后晚上不吃薯片&lt;/li&gt;
+&lt;li&gt;晚上出门做好防护工作, 不能受风&lt;/li&gt;
+&lt;li&gt;平时还是要多锻炼身体, 加强免疫力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="_8"&gt;时间记录&lt;a class="headerlink" href="#_8" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本周工作之余嗯哼 19.5h&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;蟒营, ch04, 14 …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">
+&lt;h2 id="_1"&gt;时间&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;190120-190126&lt;/p&gt;
+&lt;h2 id="_2"&gt;总结&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="_3"&gt;蟒营&lt;a class="headerlink" href="#_3" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本周是蟒营 ch04&lt;/p&gt;
+&lt;h4 id="_4"&gt;做的好的&lt;a class="headerlink" href="#_4" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;快速嗯哼完成开发任务&lt;ul&gt;
+&lt;li&gt;新建 &lt;code&gt;test.py&lt;/code&gt; 探索功能试验.&lt;/li&gt;
+&lt;li&gt;本周持续做了记录, 并及时提交代码变更记录.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;在蟒营周日的视频会中做了主题分享 -&amp;gt; &lt;a href="https://gitlab.com/101camp/py/issues/102#note_135412087"&gt;Highway To Developments
+190127 @OMlalala&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="_5"&gt;有待改进的&lt;a class="headerlink" href="#_5" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;还是没有做到每天坚持嗯哼&lt;/li&gt;
+&lt;li&gt;研究 &lt;a href="https://click.palletsprojects.com/en/7.x/"&gt;click&lt;/a&gt; 时, 没有及时止损&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="_6"&gt;投资&lt;a class="headerlink" href="#_6" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本周输出一篇作品: &lt;a href="http://omlalala.io/2019-01-21-simon-sinek.html"&gt;Simon Sinek 的 &lt;span class="caps"&gt;TED&lt;/span&gt; 演讲笔记&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="_7"&gt;生活&lt;a class="headerlink" href="#_7" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本周六突然得了肠胃型感冒, 几乎一天半状态不好, 没有学习.&lt;/p&gt;
+&lt;p&gt;两点教训&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;以后晚上不吃薯片&lt;/li&gt;
+&lt;li&gt;晚上出门做好防护工作, 不能受风&lt;/li&gt;
+&lt;li&gt;平时还是要多锻炼身体, 加强免疫力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="_8"&gt;时间记录&lt;a class="headerlink" href="#_8" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本周工作之余嗯哼 19.5h&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;蟒营, ch04, 14.5h&lt;/li&gt;
+&lt;li&gt;DebugUself, 4.5h &lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;CFA&lt;/span&gt;, .5h&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="changelog"&gt;ChangeLog&lt;a class="headerlink" href="#changelog" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;190127 init&lt;/p&gt;</content><category term="debuguself"></category></entry><entry><title>Simon Sinek 的 TED 演讲笔记</title><link href="http://omlalala.io/2019-01-21-simon-sinek.html" rel="alternate"></link><published>2019-01-22T00:54:06+08:00</published><updated>2019-01-22T00:54:06+08:00</updated><author><name>OMlalala</name></author><id>tag:omlalala.io,2019-01-22:/2019-01-21-simon-sinek.html</id><summary type="html">
 &lt;h2 id="_1"&gt;缘起&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;周末看到了金栋老师的文章 &lt;a href="https://zhuanlan.zhihu.com/p/55313652"&gt;指数量化投资 #68 - 长赢Landing页面解读一&lt;/a&gt;, 文中提到&lt;/p&gt;
 &lt;blockquote&gt;
