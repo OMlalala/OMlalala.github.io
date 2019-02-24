@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>OMlalala.io - OMlalala</title><link>http://omlalala.io/</link><description></description><lastBuildDate>Sun, 27 Jan 2019 23:50:02 +0800</lastBuildDate><item><title>自怼周报-2019年第4周</title><link>http://omlalala.io/2019-01-27-summary-19w4.html</link><description>
+<rss version="2.0"><channel><title>OMlalala.io - OMlalala</title><link>http://omlalala.io/</link><description></description><lastBuildDate>Sun, 24 Feb 2019 23:48:57 +0800</lastBuildDate><item><title>自怼周报-2019年第8周</title><link>http://omlalala.io/2019-02-24-summary-19w8.html</link><description>
+&lt;h2 id="_1"&gt;时间&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;190117-190223&lt;/p&gt;
+&lt;h2 id="_2"&gt;总结&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="_3"&gt;蟒营&lt;a class="headerlink" href="#_3" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这周是蟒营的 ch08, 本周主要刻意练习了一个方面: 节奏&lt;/p&gt;
+&lt;p&gt;本周蟒营的 changelog 为:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;20190218, 1.5h, 明确总体思路, 确认最终字段&lt;/li&gt;
+&lt;li&gt;20190219, 1.5h, mvp 增加命令行参数, 更新时间格式&lt;/li&gt;
+&lt;li&gt;20190220, 2.0h, 完成 , 和 . 功能, 终于有了自己真正的时间记录文件&lt;/li&gt;
+&lt;li&gt;20190221, 0.5h, 看 restful 相关阅读材料&lt;/li&gt;
+&lt;li&gt;20190222, 1.5h, 看 bottle 官方教程&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;基本保证每天都嗯哼, 下周继续保持.&lt;/p&gt;
+&lt;h3 id="_4"&gt;生活&lt;a class="headerlink" href="#_4" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本周有三天, 晚上在小区快走半小时.&lt;/p&gt;
+&lt;p&gt;因为最近感觉体质较差, 久坐未运动, 所以先从快走开始~&lt;/p&gt;
+&lt;h3 id="_5"&gt;时间记录 …&lt;/h3&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">OMlalala</dc:creator><pubDate>Sun, 24 Feb 2019 23:48:57 +0800</pubDate><guid isPermaLink="false">tag:omlalala.io,2019-02-24:/2019-02-24-summary-19w8.html</guid><category>debuguself</category></item><item><title>自怼周报-2019年第4周</title><link>http://omlalala.io/2019-01-27-summary-19w4.html</link><description>
 &lt;h2 id="_1"&gt;时间&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;190120-190126&lt;/p&gt;
 &lt;h2 id="_2"&gt;总结&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
@@ -33,7 +51,7 @@
 &lt;h3 id="_8"&gt;时间记录&lt;a class="headerlink" href="#_8" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;本周工作之余嗯哼 19.5h&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;蟒营, ch04, 14 …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">OMlalala</dc:creator><pubDate>Sun, 27 Jan 2019 23:50:02 +0800</pubDate><guid isPermaLink="false">tag:omlalala.io,2019-01-27:/2019-01-27-summary-19w4.html</guid><category>debuguself</category></item><item><title>Simon Sinek 的 TED 演讲笔记</title><link>http://omlalala.io/2019-01-21-simon-sinek.html</link><description>
+&lt;li&gt;蟒营, ch04, 14 …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">OMlalala</dc:creator><pubDate>Sun, 27 Jan 2019 23:51:12 +0800</pubDate><guid isPermaLink="false">tag:omlalala.io,2019-01-27:/2019-01-27-summary-19w4.html</guid><category>debuguself</category></item><item><title>Simon Sinek 的 TED 演讲笔记</title><link>http://omlalala.io/2019-01-21-simon-sinek.html</link><description>
 &lt;h2 id="_1"&gt;缘起&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;周末看到了金栋老师的文章 &lt;a href="https://zhuanlan.zhihu.com/p/55313652"&gt;指数量化投资 #68 - 长赢Landing页面解读一&lt;/a&gt;, 文中提到&lt;/p&gt;
 &lt;blockquote&gt;
