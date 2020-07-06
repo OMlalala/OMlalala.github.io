@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/</loc>
-<lastmod>2020-07-06T22:40:59-00:00</lastmod>
+<lastmod>2020-07-06T23:02:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://omlalala.io/archives.html</loc>
-<lastmod>2020-07-06T22:40:59-00:00</lastmod>
+<lastmod>2020-07-06T23:02:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://omlalala.io/tags.html</loc>
-<lastmod>2020-07-06T22:40:59-00:00</lastmod>
+<lastmod>2020-07-06T23:02:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://omlalala.io/categories.html</loc>
-<lastmod>2020-07-06T22:40:59-00:00</lastmod>
+<lastmod>2020-07-06T23:02:19-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://omlalala.io/2020-07-06-cfa-l2-r19.html</loc>
+<lastmod>2020-07-06T22:59:28+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -124,7 +131,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/category/debuguself.html</loc>
-<lastmod>2019-03-18T22:24:45+08:06</lastmod>
+<lastmod>2020-07-06T22:59:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -138,7 +145,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/tag/debuguself.html</loc>
-<lastmod>2019-03-18T22:24:45+08:06</lastmod>
+<lastmod>2020-07-06T22:59:28+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://omlalala.io/tag/cfa.html</loc>
+<lastmod>2020-07-06T22:59:28+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://omlalala.io/tag/corporate-finance.html</loc>
+<lastmod>2020-07-06T22:59:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -173,7 +194,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/author/omlalala.html</loc>
-<lastmod>2019-03-18T22:24:45+08:06</lastmod>
+<lastmod>2020-07-06T22:59:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>OMlalala.io - OMlalala</title><link>http://omlalala.io/</link><description></description><lastBuildDate>Mon, 18 Mar 2019 22:24:45 +0800</lastBuildDate><item><title>自怼周报-2019年第11周</title><link>http://omlalala.io/2019-03-17-summary-19w11.html</link><description>
+<rss version="2.0"><channel><title>OMlalala.io - OMlalala</title><link>http://omlalala.io/</link><description></description><lastBuildDate>Mon, 06 Jul 2020 22:59:28 +0800</lastBuildDate><item><title>CFA L2 R19 Capital Budgeting 笔记</title><link>http://omlalala.io/2020-07-06-cfa-l2-r19.html</link><description>
+&lt;h1 id="_1"&gt;缘起&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CFA&lt;/span&gt; 二级本来定于 2020年6月考试，因为疫情影响，延考至 2020年12月。增加了近半年的复习时间，于是决定好好看一下原版书。&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CFA&lt;/span&gt; 二级原版书共有 10 个科目，48 个 Reading，3250 页。&lt;/p&gt;
+&lt;p&gt;本笔记针对科目 Corporate Finance，Reading 19, Capital Budgeting。主要记录&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;极简框架&lt;/li&gt;
+&lt;li&gt;确幸探索&lt;/li&gt;
+&lt;li&gt;耐人习题&lt;/li&gt;
+&lt;li&gt;寻味问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="_2"&gt;极简框架&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id="_3"&gt;痛点&lt;a class="headerlink" href="#_3" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;看书过程中，一直有个痛点，就是这章共有 8 个一级标题&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class="caps"&gt;INTRODUCTION&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;THE&lt;/span&gt; &lt;span class="caps"&gt;CAPITAL&lt;/span&gt; &lt;span class="caps"&gt;BUDGETING&lt;/span&gt; &lt;span class="caps"&gt;PROCESS&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;BASIC&lt;/span&gt; &lt;span class="caps"&gt;PRINCIPLES&lt;/span&gt; &lt;span class="caps"&gt;OF&lt;/span&gt; &lt;span class="caps"&gt;CAPITAL&lt;/span&gt; &lt;span class="caps"&gt;BUDGETING&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;INVESTMENT&lt;/span&gt; &lt;span class="caps"&gt;DECISION&lt;/span&gt; &lt;span class="caps"&gt;CRITERIA …&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">OMlalala</dc:creator><pubDate>Mon, 06 Jul 2020 22:59:28 +0800</pubDate><guid isPermaLink="false">tag:omlalala.io,2020-07-06:/2020-07-06-cfa-l2-r19.html</guid><category>debuguself</category><category>CFA</category><category>Corporate Finance</category></item><item><title>自怼周报-2019年第11周</title><link>http://omlalala.io/2019-03-17-summary-19w11.html</link><description>
 &lt;h2 id="_1"&gt;时间&lt;a class="headerlink" href="#_1" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;190310-190316&lt;/p&gt;
 &lt;h2 id="_2"&gt;总结&lt;a class="headerlink" href="#_2" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
