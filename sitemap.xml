@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/</loc>
-<lastmod>2021-02-17T16:27:37-00:00</lastmod>
+<lastmod>2021-03-25T20:25:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://omlalala.io/archives.html</loc>
-<lastmod>2021-02-17T16:27:37-00:00</lastmod>
+<lastmod>2021-03-25T20:25:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://omlalala.io/tags.html</loc>
-<lastmod>2021-02-17T16:27:37-00:00</lastmod>
+<lastmod>2021-03-25T20:25:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://omlalala.io/categories.html</loc>
-<lastmod>2021-02-17T16:27:37-00:00</lastmod>
+<lastmod>2021-03-25T20:25:19-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://omlalala.io/2021-03-25-personal finance-2.html</loc>
+<lastmod>2021-03-25T20:17:47+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -138,7 +145,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/category/debuguself.html</loc>
-<lastmod>2021-02-17T16:27:30+08:06</lastmod>
+<lastmod>2021-03-25T20:17:47+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -152,14 +159,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/tag/debuguself.html</loc>
-<lastmod>2021-02-17T16:27:30+08:06</lastmod>
+<lastmod>2021-03-25T20:17:47+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://omlalala.io/tag/personal-finance.html</loc>
-<lastmod>2021-02-17T16:27:30+08:06</lastmod>
+<lastmod>2021-03-25T20:17:47+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -208,7 +215,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://omlalala.io/author/omlalala.html</loc>
-<lastmod>2021-02-17T16:27:30+08:06</lastmod>
+<lastmod>2021-03-25T20:17:47+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
